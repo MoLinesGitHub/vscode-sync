@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "window.menuBarVisibility": "classic",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.experimentalGpuAcceleration": "on",
+    "inlineChat.accessibleDiffView": "on"
+}

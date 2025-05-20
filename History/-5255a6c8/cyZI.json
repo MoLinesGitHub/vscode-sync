@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "PowerShell ISE",
+    "workbench.editor.empty.hint": "hidden",
+    "debug.openDebug": "openOnDebugBreak",
+    "editor.tabCompletion": "off",
+    "powershell.integratedConsole.focusConsoleOnExecute": true,
+    "files.defaultLanguage": "",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": false,
+    "powershell.codeFolding.showLastLine": true,
+    "powershell.sideBar.CommandExplorerVisibility": false
+}

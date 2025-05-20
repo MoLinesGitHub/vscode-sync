@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true
+    },
+    "keyboard.layout": "com.apple.keylayout.Spanish-ISO",
+    "[jsonc]": {
+        "anycode.language.features": {
+            "completions": true,
+            "definitions": true,
+            "references": true,
+            "highlights": true,
+            "outline": true,
+            "workspaceSymbols": true,
+            "folding": false,
+            "diagnostics": false
+        },
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "redhat.telemetry.enabled": true,
+    "git.openRepositoryInParentFolders": "always",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/molines/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.minikube-path-mac": "/Users/molines/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+    },
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.jpg": "luna.editor"
+    },
+    "explorer.confirmDelete": false,
+    "react-native-tools.showUserTips": false
+}

@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "window.menuBarVisibility": "classic",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.experimentalGpuAcceleration": "on",
+    "inlineChat.accessibleDiffView": "on",
+    "update.mode": "start",
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15
+}

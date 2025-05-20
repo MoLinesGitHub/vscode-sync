@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "window.menuBarVisibility": "classic",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.experimentalGpuAcceleration": "on",
+    "inlineChat.accessibleDiffView": "on",
+    "update.mode": "start",
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15,
+    "remote.SSH.enableRemoteCommand": true,
+    "debugpy.showPythonInlineValues": true,
+    "python.testing.pytestEnabled": true,
+    "python.terminal.shellIntegration.enabled": true,
+    "python.terminal.focusAfterLaunch": true,
+    "remoteHub.experimental.syncRecentList": true,
+    "remoteHub.richNavigation.enabled": true,
+    "remote.tunnels.alwaysUpdateCLI": true
+}

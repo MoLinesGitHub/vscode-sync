@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "workbench.editor.empty.hint": "hidden",
+    "debug.openDebug": "openOnDebugBreak",
+    "editor.tabCompletion": "off",
+    "powershell.integratedConsole.focusConsoleOnExecute": true,
+    "files.defaultLanguage": "",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": false,
+    "powershell.codeFolding.showLastLine": true,
+    "powershell.sideBar.CommandExplorerVisibility": false,
+    "cSpell.language": "en,es-ES"
+}
