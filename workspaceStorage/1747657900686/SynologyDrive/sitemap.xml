@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "terminal.integrated.commandsToSkipShell": [
+            "-workbench.action.quickOpen"
+        ],
+        "terminal.integrated.sendKeybindingsToShell": true
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+}
